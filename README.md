@@ -2,4 +2,4 @@
 
 
 
-#Record practice for book name Python for Data Analysis
+#Record practice for book named Python for Data Analysis
